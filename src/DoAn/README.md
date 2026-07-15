@@ -65,7 +65,7 @@ DoAn/
 
 ### SQLite (Mặc định)
 - Database tự động được tạo tại `~/database/app.db`
-- Khởi tạo schema và dữ liệu mẫu tự động khi chạy ứng dụng
+- Khởi tạo schema và dữ liệu mẫu tự động khi
 - **Không cần cài đặt thêm**
 
 ### SQL Server
